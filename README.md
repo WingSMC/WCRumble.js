@@ -1,0 +1,1 @@
+Based on [Joobalee/WarcraftRumbleLoadoutTools](https://github.com/Joobalee/WarcraftRumbleLoadoutTools/tree/master)
